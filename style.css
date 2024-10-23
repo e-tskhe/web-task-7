@@ -22,13 +22,13 @@
 
 .slick-arrow.slick-prev {
     left: 0;
-    background: url("/pictures/left.svg") 0 0 /100% no-repeat;
+    background: url("pictures/left.svg") 0 0 /100% no-repeat;
     border: none;
 }
 
 .slick-arrow.slick-next {
     right: 0;
-    background: url("/pictures/right.svg") 0 0 /100% no-repeat;
+    background: url("pictures/right.svg") 0 0 /100% no-repeat;
     border: none;
 }
 
